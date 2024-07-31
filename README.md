@@ -1,4 +1,4 @@
-# fyp-backend
+# Portfolio
 
-This project is made on nade js, express js.
-The database is Mongodb.
+This is a completly responsive portfolio website.
+It's purely made of html, css, bootstrap and js.
